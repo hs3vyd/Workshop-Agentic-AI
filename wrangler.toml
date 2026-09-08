@@ -13,7 +13,7 @@ binding = "ASSETS"
 # ดูขั้นตอนเต็มใน SETUP.md
 [[kv_namespaces]]
 binding = "APP_KV"
-id = "REPLACE_WITH_KV_NAMESPACE_ID"
+id = "687c44eec6e947a990777883d2445c1c"
 
 # Secret จริงทั้งหมดต่อไปนี้ ห้ามใส่ในไฟล์นี้เด็ดขาด — ตั้งผ่าน `npx wrangler secret put <ชื่อ>` เท่านั้น
 # (เข้ารหัสเก็บฝั่ง Cloudflare) รายชื่อที่ต้องตั้ง ดู SETUP.md:
