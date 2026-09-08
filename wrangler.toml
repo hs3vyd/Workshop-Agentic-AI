@@ -18,6 +18,7 @@ run_worker_first = true
 binding = "APP_KV"
 id = "a4f7da28902441d4a65df817215e81e3"
 
+
 # Secret จริงทั้งหมดต่อไปนี้ ห้ามใส่ในไฟล์นี้เด็ดขาด — ตั้งผ่าน `npx wrangler secret put <ชื่อ>` เท่านั้น
 # (เข้ารหัสเก็บฝั่ง Cloudflare) รายชื่อที่ต้องตั้ง ดู SETUP.md:
 #   ADMIN_TOKEN, GEMINI_API_KEY, OPENAI_API_KEY, OPENAI_COMPAT_API_KEY,
