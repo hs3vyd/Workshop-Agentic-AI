@@ -16,8 +16,7 @@ run_worker_first = true
 # ดูขั้นตอนเต็มใน SETUP.md
 [[kv_namespaces]]
 binding = "APP_KV"
-id = "a4f7da28902441d4a65df817215e81e3"
-
+id = "687c44eec6e947a990777883d2445c1c"
 
 # Secret จริงทั้งหมดต่อไปนี้ ห้ามใส่ในไฟล์นี้เด็ดขาด — ตั้งผ่าน `npx wrangler secret put <ชื่อ>` เท่านั้น
 # (เข้ารหัสเก็บฝั่ง Cloudflare) รายชื่อที่ต้องตั้ง ดู SETUP.md:
